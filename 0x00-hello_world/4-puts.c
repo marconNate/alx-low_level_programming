@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/my_first_directory/betty
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
